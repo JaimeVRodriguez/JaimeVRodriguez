@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img source = downloads/image.jpg>
+<img src = "Downloads/image.jpg">
 
 <!--
 **JaimeVRodriguez/JaimeVRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
