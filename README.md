@@ -1,4 +1,4 @@
-### Hi there, I'm Jaime 👋🏽🧑🏻‍💻
+### Hi there 👋🏽
 
 <img src = "https://github.com/JaimeVRodriguez/JaimeVRodriguez/blob/master/header.png">
 
