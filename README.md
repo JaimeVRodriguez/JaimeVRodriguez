@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src = "https://github.com/JaimeVRodriguez/JaimeVRodriguez/blob/master/image.png">
 <!--
 **JaimeVRodriguez/JaimeVRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
