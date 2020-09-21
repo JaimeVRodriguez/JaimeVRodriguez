@@ -9,6 +9,6 @@
 ## Find me around the world wide web 🌎:
 - Portfolio but cooler <a href="https://www.jaime-rodriguez.com">Personal Website</a> 👨🏻‍💻
 - Follow my transition journey <a href="https://www.https://www.linkedin.com/in/jaime-v-rodriguez/">LinkedIn</a> 💼
-- Tweet Away <a href="https://codepen.io/m0nica">Twitter</a> 🐦
+
 
 
