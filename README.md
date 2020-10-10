@@ -11,5 +11,9 @@
 - Follow my transition journey <a href="https://www.https://www.linkedin.com/in/jaime-v-rodriguez/">LinkedIn</a> 💼
 - Tweet Along <a href="https://www.twitter.com/jaime_Codes">Twitter</a>🐦
 
+## Languages and Tools 🛠:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Visual Studio Code.svg" />
+
+
 
 
