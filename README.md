@@ -3,7 +3,6 @@
 <img src = "https://github.com/JaimeVRodriguez/JaimeVRodriguez/blob/master/header.png">
 
 ### 
-### Dedicated professional passionate about designing and building scalable software solutions that would serve thousands of customers.
 ### I have served in the U.S. Army for the past 13 years. The last 6 of which have been in Special Operations as a Market Research Analyst and Talent Acquisition Specialist. I have served on small collaborative teams in ambiguous missions across the world.
 
 ## Find me around the world wide web 🌎:
