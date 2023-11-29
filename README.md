@@ -9,8 +9,9 @@
 - Follow my transition journey <a href="https://www.linkedin.com/in/jaime-v-rodriguez/">LinkedIn</a> 💼
 
 ## Languages and Tools 🛠:
+<img align="left" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring" height="32" width="32" src"https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/d4eda3cd-2525-491e-b7df-2a9e0ca6819d" />
+<img align="left" alt="Spring" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/d4eda3cd-2525-491e-b7df-2a9e0ca6819d" />
 <img align="left" alt="Typescript" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/a072f8ca-5700-4d51-ae40-afc9f2710ee1" />
 <img align="left" alt="React" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/2ac3ada5-7b96-4ed8-8219-5bedb0f5691c" />
 <img align="left" alt="MUI" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/9125bd8f-5963-4f9e-a434-11420898d9f2" />
@@ -21,12 +22,6 @@
 <img align="left" alt="SQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/4923bad5-ae55-4180-9fc8-b017c94565ba" />
 <img align="left" alt="Docker" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/9de5d378-a395-4852-afd6-5c1f7d41bb3f" />
-
-
-
-<img align="left" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Ruby" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-
 
 <img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitLab" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/e00cca42-e82c-4de8-915d-bfcf1bbe555b" />
