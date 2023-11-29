@@ -19,6 +19,7 @@
 <img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MacOS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />
+<img align="left" alt="Typescript" height="32" width="32" src="https://github.com/JaimeVRodriguez/JaimeVRodriguez/assets/57820323/a072f8ca-5700-4d51-ae40-afc9f2710ee1" />
 
 
 
