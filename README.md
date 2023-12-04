@@ -3,7 +3,7 @@
 <img src = "https://github.com/JaimeVRodriguez/JaimeVRodriguez/blob/master/header_black.png">
 
 ### 
-### I have served in the U.S. Army for the past 13 years. The last 6 of which have been in Special Operations as a Market Research Analyst and Talent Acquisition Specialist. In that time I have served on small collaborative teams in ambiguous missions across the world. As I pursue a career in software development I am looking to combine my passion for programming with my 13 years of military experience in order to serve with a team on the leading edge of technology.
+### I have served in the U.S. Army for the past 14 years. The last 7 of which have been in Special Operations as a Market Research Analyst, Talent Acquisition Specialist, and most recently Software Developer. In that time I have served on small collaborative teams in ambiguous missions across the world. As I pursue a career in software development I am looking to combine my passion for programming with my 14 years of military experience in order to serve with a team on the leading edge of technology.
 
 ## Find me around the world wide web 🌎:
 - Follow my transition journey <a href="https://www.linkedin.com/in/jaime-v-rodriguez/">LinkedIn</a> 💼
