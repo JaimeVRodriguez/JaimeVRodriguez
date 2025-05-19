@@ -20,7 +20,6 @@ company: U.S. Army Special Operations
 <a href="www.linkedin.com/jaime-v-rodriguez"><img src="/assets/linkedin_icon.png/"></a>
 <a href="www.jaime-v-rodriguez.com"><img src="/assets/web.png"></a>
 
-- Follow my transition journey <a href="https://www.linkedin.com/in/jaime-v-rodriguez/">LinkedIn</a> 💼
 
 ## Languages and Tools 🛠:
 <img align="left" height="32" width="32" alt="Typescript" src="/assets/typescript.svg" />
