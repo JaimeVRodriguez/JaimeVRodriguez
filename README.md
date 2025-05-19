@@ -19,8 +19,8 @@ company: U.S. Army Special Operations
 
 
 ## Languages and Tools 🛠:
-<img align="left" height="32" width="32" alt="Typescript" src="/assets/typescript.svg" />
 <img align="left" height="32" width="32" alt="React" src="/assets/react.svg" />
+<img align="left" height="32" width="32" alt="Typescript" src="/assets/typescript.svg" />
 <img align="left" height="32" width="32" alt="Java" src="/assets/java.png" />
 <img align="left" height="32" width="32" alt="Spring" src="/assets/spring.svg" />
 <img align="left" height="32" width="32" alt="Python" src="/assets/python.svg" />
