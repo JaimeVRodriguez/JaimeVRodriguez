@@ -23,16 +23,16 @@ company: U.S. Army Special Operations
 - Follow my transition journey <a href="https://www.linkedin.com/in/jaime-v-rodriguez/">LinkedIn</a> 💼
 
 ## Languages and Tools 🛠:
-<img align="left" alt="Typescript" src="/assets/typescript.svg" />
-<img align="left" alt="React" src="/assets/react.svg" />
-<img align="left" alt="Java" src="/assets/java.png" />
-<img align="left" alt="Spring" src="/assets/spring.svg" />
-<img align="left" alt="Python" src="/assets/python.svg" />
-<img align="left" alt="PostgreSQL" src="/assets/postgresql.svg" />
-<img align="left" alt="Docker" src="/assets/docker.svg" />
-<img align="left" alt="MUI" src="/assets/mui.svg" />
-<img align="left" alt="Git" src="/assets/git.svg" />
-<img align="left" alt="GitLab" src="/assets/gitlab.svg" />
+<img align="left" height="32" width="32" alt="Typescript" src="/assets/typescript.svg" />
+<img align="left" height="32" width="32" alt="React" src="/assets/react.svg" />
+<img align="left" height="32" width="32" alt="Java" src="/assets/java.png" />
+<img align="left" height="32" width="32" alt="Spring" src="/assets/spring.svg" />
+<img align="left" height="32" width="32" alt="Python" src="/assets/python.svg" />
+<img align="left" height="32" width="32" alt="PostgreSQL" src="/assets/postgresql.svg" />
+<img align="left" height="32" width="32" alt="Docker" src="/assets/docker.svg" />
+<img align="left" height="32" width="32" alt="MUI" src="/assets/mui.svg" />
+<img align="left" height="32" width="32" alt="Git" src="/assets/git.svg" />
+<img align="left" height="32" width="32" alt="GitLab" src="/assets/gitlab.svg" />
 
 
 
